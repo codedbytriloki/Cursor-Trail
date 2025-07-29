@@ -1,0 +1,2 @@
+# Cursor-Trail
+Animation Apply
